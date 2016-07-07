@@ -13,7 +13,8 @@ Method takes into account matches that are not whole words. For example myGame.f
   Clone the repo.  
   Run a instance of the gradle web server with 'gradle run'.  
   Navigate to localhost:4567
-
+  
+  Additionally, tests can be run with 'gradle test'.
 ### License
 
 Available for use under the MIT license.
